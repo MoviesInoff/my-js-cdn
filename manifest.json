@@ -8,12 +8,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXy2dj8pQ--OE1EECYfA_e7mHeBFTnaWVUVjbSyE99W7DNY-yILv65CvHhLzPrORIGdKGG4Cr1NRMUVOXf4Avr9YtPUfGISukh6EYAhPVbmehjCF0rJftfUydlIeLU7tt9wHIRvCf_18uZqkMGzzQfENYOTftXqsJobMAYC5jEQuRPyXSnYQKJuIKVk-OF/s320/icon-192.png",
+      "src": "https://cdn.jsdelivr.net/gh/MoviesInoff/my-js-cdn/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1gUQYfi8qjWTJkDo7-ufHNVxk4a4PLXg2uAWWAfcQjLQbjIHf7pEvu3a6k4smXjsRhvAei4yPqysd0IF9aqCDtWYs-wyxHI_c1EMXGbApuvAPEKkC1TQjAE5h4aYp-VyJcGg4auA897vss30bBPxYPvG70Xvt9NzGH7Nigku7P1xv5S6V-3jkmYDJsJCc/s320/icon-512.png",
+      "src": "https://cdn.jsdelivr.net/gh/MoviesInoff/my-js-cdn/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
